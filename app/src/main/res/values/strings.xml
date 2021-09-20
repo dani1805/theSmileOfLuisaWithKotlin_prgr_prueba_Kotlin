@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TheSmileOfLuisaWithKotlin</string>
+    <string name="Inicio">Home</string>
+    <string name="Mascarillas">Mask</string>
+    <string name="Contacto">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Web">Web</string>
+
+    <array name="spCollection">
+
+        <item>Colección animal Print</item>
+        <item>Colección eventos especiales</item>
+        <item>Colección Spring</item>
+        <item>Mascarillas lisas para ellos y para ellas</item>
+        <item>Colección lunares de colores</item>
+
+
+    </array>
+
+
+</resources>
